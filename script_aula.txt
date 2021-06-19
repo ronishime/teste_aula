@@ -1,0 +1,434 @@
+
+ronis@RKSN MINGW64 /c/Users
+$ cd
+
+ronis@RKSN MINGW64 ~
+$ cd ..
+
+ronis@RKSN MINGW64 /c/Users
+$ cd Documents
+bash: cd: Documents: No such file or directory
+
+ronis@RKSN MINGW64 /c/Users
+$ cd ..
+
+ronis@RKSN MINGW64 /c
+$ ls
+'$Recycle.Bin'/                Autodesk/                  DumpStack.log       PerfLogs/               SQL2019/                      Windows/         pagefile.sys
+'$WinREAgent'/                 BOOTNXT                    DumpStack.log.tmp  'Program Files'/        'System Volume Information'/   bootmgr          swapfile.sys
+ Alura/                        Config.Msi/                Intel/             'Program Files (x86)'/   TEMP/                         dell.sdr
+ Apps/                         Dell/                      KVRT_Data/          ProgramData/            TMP/                          eeColorTables/
+'Arquivos de Programas'@      'Documents and Settings'@   MailArchive/        Projeto/                TRF/                          hiberfil.sys
+'Arquivos de Programas RFB'/   Drivers/                   OTO/                Recovery/               Users/                        langpacks/
+
+ronis@RKSN MINGW64 /c
+$ cd Users
+
+ronis@RKSN MINGW64 /c/Users
+$ ls
+'All Users'@   Default/  'Default User'@   Public/  'Todos os Usuários'@  'Usuário Padrão'@   defaultuser100000/   desktop.ini   ronis/
+
+ronis@RKSN MINGW64 /c/Users
+$ cd ronis
+
+ronis@RKSN MINGW64 ~
+$ ls
+'3D Objects'/             'Menu Iniciar'@                                                                                 Recent@
+'Ambiente de Impressão'@  'Meus Documentos'@                                                                             'Saved Games'/
+'Ambiente de Rede'@        Microsoft/                                                                                     Searches/
+ AppData/                  MicrosoftEdgeBackups/                                                                          SendTo@
+'Configurações Locais'@    Modelos@                                                                                       Untitled-1.txt
+ Contacts/                 Music/                                                                                         Untitled.ipynb
+ Cookies@                  NTUSER.DAT                                                                                     Videos/
+'Creative Cloud Files'/    NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        anaconda3/
+'Dados de Aplicativos'@    NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   gera_dados.py
+ Desktop/                  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   ntuser.dat.LOG1
+ Documents/                OneDrive/                                                                                      ntuser.dat.LOG2
+ Downloads/                Pictures/                                                                                      ntuser.ini
+ Dropbox/                  RKSN_Prova_Mod3-Copy1.ipynb                                                                    package.json
+ Favorites/                RKSN_Prova_Mod3.ipynb                                                                          projeto2_Final_Comentado.py
+ IntelGraphicsProfiles/    RO_BusinessCase_EDA-Copy1.ipynb                                                                source/
+ Links/                    RO_BusinessCase_EDA.ipynb
+
+ronis@RKSN MINGW64 ~
+$ cd Documents/
+
+ronis@RKSN MINGW64 ~/Documents
+$ ls
+ 0001a.xlsx                                   Lista_Cintia_20191113.pdf
+ 0388_202002.txt                              Logo_Kineipe.jpg
+ 2364_Oto.pdf                                 MEI/
+ 33279703.pdf                                 MENTORIA/
+'A IMUNIDADE DAS REDES SOCIAIS.pdf'           MIDORI.cdr
+'A OTO Auditoria Contábil informa que.docx'   Mansur.cdr
+'A OTO Auditoria Contábil informa que.htm'    MansurCell_Logo_Previa.cdr
+ ADM/                                         MansurCell_Logo_Previa.pdf
+ Adobe/                                       Marcelo/
+ AlbertEinstein/                             'Me chamo Ronaldo Nishime e estou submetendo meu currículo à vaga de Analista de Customer Service.docx'
+ Aleks_20210322.docx                         'Mega-Sena e Quina online • Loterias internacionais • Bolões _ Lottoland.pdf'
+ Aleks_20210322.pdf                          'Meus Vídeos'@
+ Aleks_20210408.docx                          Midori_01.jpg
+ Aleks_20210408.pdf                           Midori_02.jpg
+ AnaCelia_Email.txt                           Midori_03.jpg
+ AnaCelia_Email.xlsx                          Midori_Icon.jpg
+'Arquivos do Outlook'/                        Midori_Logo.jpg
+ Banco_Imagem/                               'Minhas Imagens'@
+ Barulho/                                    'Minhas Músicas'@
+'Blocos de Anotações do OneNote'/             Modela_Ana.txt
+ CADUNICO_EuniceSiegDeDouza.pdf              'Modelos Personalizados do Office'/
+ CADUNICO_RKSN.pdf                            MorganaMiranda_Financeiro.pdf
+ CERTIFICADO/                                 MorganaMiranda_Financeiro.xlsx
+ CNPJ/                                        MorganaMiranda_Financeiro_20200917.pdf
+ Carol/                                       Morgana_Boleto_20190904.pdf
+ Corel/                                      'My Web Sites'/
+ Coursera/                                    NET.pdf
+ Coursera.docx                                OFC.xlsx
+ DT.txt                                       OTO_Agenda.xlsx
+ Dalio.docx                                   OTO_Com_RelDoc_20200130.docx
+ Database1.accdb                              OTO_Logo_Google.png
+ Default.rdp                                  OpenCo/
+ DevDes/                                      Oto_NF_Itens.docx
+ DigitalHouse_Doc.pdf                         Oto_Relogo.pdf
+ Downloads/                                   PA_SOZO.xlsx
+ Drone/                                      'PROTOCOLO DE ACESSO REMOTO.docx'
+ EDX/                                         ParcelaCartao.pdf
+ EDX.docx                                     Pasta1.pdf
+ EFD_Auditoria_NCM_00.pdf                     Pasta1.xlsx
+ ESPM/                                        Pasta2.xlsx
+ ESS/                                        'Prezado cliente.docx'
+ EXT_SOUL.xlsx                                Python/
+'Extrato Conta Corrente-261120201900.xls'    'Python Scripts'/
+ FATEC/                                       Python.pdf
+ FINANCEIRO.txt                               QuintoAndar/
+ Focus/                                       R/
+ Focus.cdr                                    RKSN_Curriculo.docx
+ Focus_Cartao.cdr                             RKSN_Curriculo.pdf
+ Focus_Cartao.jpg                             RKSN_Curriculo_201911.docx
+ Focus_Cartao_Final.pdf                       RKSN_Curriculo_201911.pdf
+ Focus_Cartao_Grafica.cdr                     RKSN_Portfolio.cdr
+ Focus_Cartao_Grafica.pdf                     RKSN_Portfolio.pdf
+ Focus_Cartao_Grafica_Corel_15.cdr            RKSN_Portfolio_2019.cdr
+ Focus_Exemplo_01.jpg                         RV_Certificado.pfx
+ Focus_Logo.jpg                               Reiner_Logo_Previa.pdf
+ Focus_Logo_Corel.cdr                         RemessaOnline/
+ Focus_Logo_EPS.eps                           RoyAcesso.txt
+ Focus_Logo_Grande.jpg                        SOZO/
+ Focus_Logo_Pequeno.jpg                      'SQL Server Management Studio'/
+ Folha_20200729.pdf                           SQL_Teste.txt
+ FullStack_Santander.txt                      Scan2019-11-26_165125.jpg
+ GMX_Logo_Previa.pdf                          Scan2019-11-26_165125_001.jpg
+ Goiabada.cdr                                 Scan2019-11-26_165125_002.jpg
+ Goiabada_Logo.cdr                            Scan2019-11-26_165125_003.jpg
+ Goiabada_Logo.jpg                           'Sem título-1.gif'
+ Goiabada_Logo_Modelo.jpg                     SenhaRoy.txt
+'Gravações de som'/                           Trabalho/
+ HipnoLife.cdr                                UAM/
+ HipnoLife_01.jpg                             VEDOR.M19
+ HipnoLife_02.jpg                             Vedor/
+ HipnoLife_03.jpg                            'Visual Studio 2013'/
+ HipnoLife_04.jpg                            'Visual Studio 2017'/
+ HipnoLife_Cartao.cdr                        'Visual Studio 2019'/
+ HipnoLife_Cartao.jpg                        'Working Files'/
+ IISExpress/                                  Zoom/
+ IQuilibrio_Tiragem_Luciano.pdf               debug.log
+ Icone.jpg                                    desktop.ini
+ Insights.docx                                microsoft_protocolo.txt
+'Inventor Server for AutoCAD'/                nota.txt
+ Key_Defrag.txt                               nte.txt
+ Key_Malware.txt                              plot.log
+ LMN/                                         soul.txt
+ LetsCode/                                   '~$rsos_Andamento.docx'
+ Lista_20191111.pdf
+
+ronis@RKSN MINGW64 ~/Documents
+$ cd LetsCode/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode
+$ cd ~
+
+ronis@RKSN MINGW64 ~
+$ ls
+'3D Objects'/             'Menu Iniciar'@                                                                                 Recent@
+'Ambiente de Impressão'@  'Meus Documentos'@                                                                             'Saved Games'/
+'Ambiente de Rede'@        Microsoft/                                                                                     Searches/
+ AppData/                  MicrosoftEdgeBackups/                                                                          SendTo@
+'Configurações Locais'@    Modelos@                                                                                       Untitled-1.txt
+ Contacts/                 Music/                                                                                         Untitled.ipynb
+ Cookies@                  NTUSER.DAT                                                                                     Videos/
+'Creative Cloud Files'/    NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        anaconda3/
+'Dados de Aplicativos'@    NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   gera_dados.py
+ Desktop/                  NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms   ntuser.dat.LOG1
+ Documents/                OneDrive/                                                                                      ntuser.dat.LOG2
+ Downloads/                Pictures/                                                                                      ntuser.ini
+ Dropbox/                  RKSN_Prova_Mod3-Copy1.ipynb                                                                    package.json
+ Favorites/                RKSN_Prova_Mod3.ipynb                                                                          projeto2_Final_Comentado.py
+ IntelGraphicsProfiles/    RO_BusinessCase_EDA-Copy1.ipynb                                                                source/
+ Links/                    RO_BusinessCase_EDA.ipynb
+
+ronis@RKSN MINGW64 ~
+$ cd Documents/
+
+ronis@RKSN MINGW64 ~/Documents
+$ CD LetsCode/
+bash: CD: command not found
+
+ronis@RKSN MINGW64 ~/Documents
+$ cd LetsCode/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode
+$ ls
+Modulo_02/  Modulo_03/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode
+$ cd Modulo_3
+bash: cd: Modulo_3: No such file or directory
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode
+$ cd_modulo_03
+bash: cd_modulo_03: command not found
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode
+$ cd Modulo_03
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03
+$ mkdir Git_Sample
+mkdir: cannot create directory ‘Git_Sample’: No such file or directory
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03
+$ mkdir git
+mkdir: cannot create directory ‘git’: No such file or directory
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03
+$ mkdir Git_Exemplo
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03
+$ ls
+ Git_Exemplo/  'Prova - módulo 3 (1).ipynb'   RKSN_Prova_Mod3.ipynb   Vendas_de_vídeo_games-2.ipynb   crimes.csv   fish.csv   gas.csv   salarios.csv   videogame.csv
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03
+$ cd Git_Exemplo/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git config --global user.name "RKSN"
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git config --global user.email ronishime@gmail.com
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git clone https://github.com/ronishime/teste_aula.git
+fatal: could not create work tree dir 'teste_aula': No such file or directory
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ ^C
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git clone fatal: could not create work tree dir 'teste_aula': No such file or directory
+fatal: Too many arguments.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    --reject-shallow      don't clone shallow repository
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    --recursive ...       alias of --recurse-submodules
+    -j, --jobs <n>        number of submodules cloned in parallel
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    --reference-if-able <repo>
+                          reference repository
+    --dissociate          use --reference only while cloning
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --shallow-since <time>
+                          create a shallow clone since a specific time
+    --shallow-exclude <revision>
+                          deepen history of shallow clone, excluding rev
+    --single-branch       clone only one branch, HEAD or --branch
+    --no-tags             don't clone any tags, and make later fetches not to follow them
+    --shallow-submodules  any cloned submodules will be shallow
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+    --server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --filter <args>       object filtering
+    --remote-submodules   any cloned submodules will use their remote-tracking branch
+    --sparse              initialize sparse-checkout file to include only files at root
+
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git clone https://github.com/ronishime/teste_aula.git
+fatal: could not create work tree dir 'teste_aula': No such file or directory
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ git clone https://github.com/ronishime/teste_aula.git
+Cloning into 'teste_aula'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ ls
+teste_aula/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ cd teste_aula
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git starus
+git: 'starus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git add readme.md
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git add README.md
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git commit -m "commit inicial do repositorio teste"
+[main b8453d3] commit inicial do repositorio teste
+ 1 file changed, 4 insertions(+)
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git log
+commit b8453d3de4e1eb458e42af5daa1666654274f914 (HEAD -> main)
+Author: RKSN <ronishime@gmail.com>
+Date:   Fri Jun 18 21:01:10 2021 -0300
+
+    commit inicial do repositorio teste
+
+commit 37ef8e5e173af8f7a7fff9c5064caf946cb36f57 (origin/main, origin/HEAD)
+Author: Ronaldo Nishime <81516930+ronishime@users.noreply.github.com>
+Date:   Fri Jun 18 20:33:44 2021 -0300
+
+    Initial commit
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git push origin
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 328 bytes | 328.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/ronishime/teste_aula.git
+   37ef8e5..b8453d3  main -> main
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git checkout -b teste
+Switched to a new branch 'teste'
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git add .
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git status
+On branch teste
+nothing to commit, working tree clean
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git commit -m
+error: switch `m' requires a value
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git commit -m "branch novo"
+On branch teste
+nothing to commit, working tree clean
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git push origin teste
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'teste' on GitHub by visiting:
+remote:      https://github.com/ronishime/teste_aula/pull/new/teste
+remote:
+To https://github.com/ronishime/teste_aula.git
+ * [new branch]      teste -> teste
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (teste)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ cd..
+bash: cd..: command not found
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/teste_aula (main)
+$ cd ..
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ ls
+nomear_repositorio/  teste_aula/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo
+$ cd nomear_repositorio/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/nomear_repositorio
+$ git init
+Initialized empty Git repository in C:/Users/ronis/Documents/LetsCode/Modulo_03/Git_Exemplo/nomear_repositorio/.git/
+
+ronis@RKSN MINGW64 ~/Documents/LetsCode/Modulo_03/Git_Exemplo/nomear_repositorio (master)
+$
